@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Atom-Designer
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Coding
-- 💞️ I’m looking to collaborate on any project based on phython or html
+- 🌱 I’m currently learning JAVA and C#
+- 💞️ I’m looking to collaborate on any project based on Python, HTML , JAVASCRIPT, JAVA ,SQL AND C#
 - 📫 TIPS ON How to reach me - 
 
 <!---
